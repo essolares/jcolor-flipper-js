@@ -1,5 +1,7 @@
 # js-color-flipper
+## VanillaJS
+### Edgar Salazar
 Vanillajs color flipper
-Built as part of VanillaJS course from freeCodeCamp
+Developed as part of VanillaJS course from freeCodeCamp
 
-https://essolares-public-js-color-flipper.netlify.app/
+DEMO:  https://essolares-public-js-color-flipper.netlify.app/
