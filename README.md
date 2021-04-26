@@ -1,2 +1,2 @@
-# color-flipper-js
+# js-color-flipper
 Vanillajs color flipper
